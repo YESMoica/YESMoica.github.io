@@ -2453,7 +2453,7 @@ input, select, textarea {
 			}
 
 		table td {
-			padding: 0.75em 0.75em;
+			padding: 1.5em 1.5em;
 		}
 
 		table th {
@@ -2765,7 +2765,7 @@ input, select, textarea {
 			}
 
 			.tiles article h3 {
-				font-size: 1.75em;
+				font-size: 2em;
 			}
 
 				.tiles article h3 a:hover {
@@ -2831,15 +2831,15 @@ input, select, textarea {
 			}
 
 			.tiles article:nth-child(6n - 5):before {
-				background-color: #6fc3df;
+				background-color: #CADFE3;
 			}
 
 			.tiles article:nth-child(6n - 4):before {
-				background-color: #8d82c4;
+				background-color: #83727C;
 			}
 
 			.tiles article:nth-child(6n - 3):before {
-				background-color: #ec8d81;
+				background-color: #BD898C;
 			}
 
 			.tiles article:nth-child(6n - 2):before {
